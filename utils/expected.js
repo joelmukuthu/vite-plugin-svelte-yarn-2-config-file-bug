@@ -1,0 +1,1 @@
+require("../svelte.config.js");

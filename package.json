@@ -1,0 +1,13 @@
+{
+  "name": "vite-plugin-svelte-yarn-2-config-file-bug",
+  "private": true,
+  "scripts": {
+    "build": "node utils/build",
+    "expected": "node utils/expected"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "svelte": "^3.35.0",
+    "vite": "^2.3.8"
+  }
+}
